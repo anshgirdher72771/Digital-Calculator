@@ -1,7 +1,7 @@
-Project Name: Digital Calculator
-Developer: Ansh Girdher
-Language: Java
-Technologies Used: Java Swing, exp4j (for mathematical expression evaluation), Launch4j, Inno Setup
+* Project Name: Digital Calculator
+* Developer: Ansh Girdher
+* Language: Java
+* Technologies Used: Java Swing, exp4j (for mathematical expression evaluation), Launch4j, Inno Setup
 
 Overview:
 The Digital Calculator is a fully functional desktop application built using Java Swing. It provides a user-friendly interface for performing basic arithmetic operations (addition, subtraction, multiplication, division) and advanced operations like percentage calculations. The calculator also supports decimal operations and includes features like All Clear (AC) and Delete (DEL) for efficient input management.
