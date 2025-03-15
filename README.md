@@ -1,4 +1,4 @@
-* Digital Calculator Setup File Link :-  https://drive.google.com/file/d/1WzvSEGkVlAs9duN_NyqCpfWIxmJChHWw/view?usp=sharing
+* Digital Calculator Setup File Link :- https://drive.google.com/file/d/1aW1HAHz6F0N8tyBZHyRuKDf7l8FDmSsf/view?usp=drive_link
 
 * Project Name: Digital Calculator
 * Developer: Ansh Girdher
